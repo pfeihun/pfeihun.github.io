@@ -1,11 +1,83 @@
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) /*and (max-width: 1199px)*/ {
 	
 	.section-1-box .section-1-box-icon { width: 60px; height: 60px; font-size: 32px; line-height: 60px; }
-	
+	/***Timeline Section 2***/
+	.timeline{
+		margin-top: 40px;
+		margin-bottom: 40px;
+		position: relative;
+	}
+	.timeline:before{
+		content: '';
+		position: absolute;
+		left: 50%;
+		width: 2px;
+		height: 100%;
+		background-color: #333;
+	}
+	.timeline ul{
+		margin: 0;
+		padding: 0;
+	}
+	.timeline ul li{
+		list-style: none;
+		position: relative;
+		width: 50%;
+		padding: 20px 40px;
+	}
+	.timeline ul li:nth-child(even){
+		float: left;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:nth-child(even):before{
+		content: '';
+		position: absolute;
+		top: 24px;
+		right: -11px;
+		width: 20px;
+		height: 20px;
+		background-color: #cd533d;
+		border-radius: 50%;
+		box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.2);
+	}
+	.timeline ul li:nth-child(odd){
+		float: right;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:nth-child(odd):before{
+		content: '';
+		position: absolute;
+		top: 24px;
+		left: -9px;
+		width: 20px;
+		height: 20px;
+		background-color: #cd533d;
+		border-radius: 50%;
+		box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.2);
+	}
+	.time-card{
+		border: #444;
+		padding: 10px;
+		border: 1px solid #cd533d;
+		border-radius: 20px;
+
+	}
+	.time-card h4{
+		padding: 0;
+		margin: 0;
+		font-weight: 500;
+	}
+	.timeline::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) /*and (max-width: 991px)*/ {
 
 	.section-description p { padding: 0; }
 	
@@ -13,6 +85,80 @@
 	
 	.section-3-box .section-3-box-icon { width: 50px; height: 50px; font-size: 26px; line-height: 50px; }
 
+			/***Timeline Section 2***/
+	.timeline{
+		margin-top: 40px;
+		margin-bottom: 40px;
+		position: relative;
+	}
+	.timeline:before{
+		content: '';
+		position: absolute;
+		left: 50%;
+		width: 2px;
+		height: 100%;
+		background-color: #333;
+	}
+	.timeline ul{
+		margin: 0;
+		padding: 0;
+	}
+	.timeline ul li{
+		list-style: none;
+		position: relative;
+		width: 50%;
+		padding: 20px 40px;
+	}
+	.timeline ul li:nth-child(even){
+		float: left;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:nth-child(even):before{
+		content: '';
+		position: absolute;
+		top: 24px;
+		right: -11px;
+		width: 20px;
+		height: 20px;
+		background-color: #cd533d;
+		border-radius: 50%;
+		box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.2);
+	}
+	.timeline ul li:nth-child(odd){
+		float: right;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:nth-child(odd):before{
+		content: '';
+		position: absolute;
+		top: 24px;
+		left: -9px;
+		width: 20px;
+		height: 20px;
+		background-color: #cd533d;
+		border-radius: 50%;
+		box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.2);
+	}
+	.time-card{
+		border: #444;
+		padding: 10px;
+		border: 1px solid #cd533d;
+		border-radius: 20px;
+
+	}
+	.time-card h4{
+		padding: 0;
+		margin: 0;
+		font-weight: 500;
+	}
+	.timeline::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
+  
 }
 
 @media (max-width: 767px) {
@@ -36,7 +182,71 @@
 	.section-6-box { text-align: center; }
 	.section-6-social a { margin: 0 5px 10px 5px; }
 	.section-6-form { margin-bottom: 30px; text-align: center; }
-	
+	/***Timeline Section 2***/
+	.timeline{
+		margin-top: 40px;
+		margin-bottom: 40px;
+		position: relative;
+	}
+	.timeline:before{
+		content: '';
+		position: absolute;
+		left: 10%;
+		width: 2px;
+		height: 100%;
+		background-color: #333;
+	}
+	.timeline ul{
+		margin: 0;
+		padding: 0;
+	}
+	.timeline ul li:nth-child(odd){
+		list-style: none;
+		position: relative;
+		width: 90%;
+		padding: 20px 40px;
+		float: right;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:nth-child(even){
+		list-style: none;
+		position: relative;
+		width: 90%;
+		padding: 20px 40px;
+		float: right;
+		text-align: left;
+		clear: both;
+	}
+	.timeline ul li:before{
+		content: '';
+		position: absolute;
+		top: 24px;
+		left: -9px;
+		width: 20px;
+		height: 20px;
+		background-color: #cd533d;
+		border-radius: 50%;
+		box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.2);
+	}
+	.time-card{
+		margin:10px 0;
+		border: #444;
+		padding: 10px;
+		border: 1px solid #cd533d;
+		border-radius: 20px;
+		min-width: 120px;
+	}
+	.time-card h4{
+		padding: 0;
+		margin: 0;
+		font-weight: 500;
+	}
+	.timeline::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
 }
 
 @media (max-width: 575px) {
