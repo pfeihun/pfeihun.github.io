@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
-        <title>Pfeiffer Zoltán Szabadúszó</title>
+        <title data-i18n="mainTitle">Pfeiffer Zoltán Szabadúszó</title>
 
         <!-- CSS -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500&display=swap">
@@ -42,33 +42,39 @@
 				<div class="logo">
 					<h3><a href="index.html">Pfeiffer Zoltán</a></h3>
 				</div>
+				<!--Language selector-->
+				<div class="langWrap">
+					<a href="#hu" hreflang="hu" class="active language"><img src="./assets/img/flag/Flag_of_Hungary.svg" alt=""></a> <br />
+					<a href="#de" hreflang="de" class="language"><img src="./assets/img/flag/Flag_of_Germany.svg" alt=""></a> <br />
+					<a href="#en" hreflang="en" class="language"><img src="./assets/img/flag/Flag_of_the_United_Kingdom.svg" alt=""></a>
+				</div>
 				<ul class="list-unstyled menu-elements">
 					<li class="active">
-						<a class="scroll-link" href="#top-content"><i class="fas fa-home"></i><span class="js-debut"> Bemutatkozás</span></a>
+						<a class="scroll-link" href="#top-content"><i class="fas fa-home"></i><span data-i18n="debut"> Bemutatkozás</span></a>
 						
 					</li>
 					<li>
-						<a class="scroll-link" href="#section-1"><i class="fas fa-user"></i><span class="js-about">Rólam</span></a>
+						<a class="scroll-link" href="#section-1"><i class="fas fa-user"></i><span data-i18n="about">Rólam</span></a>
 					</li>
 					<li>
-						<a class="scroll-link" href="#section-2"><i class="fas fa-laptop-house"></i> <span class="js-timeline">Munkahelyek és Iskolák</span></a>
+						<a class="scroll-link" href="#section-2"><i class="fas fa-laptop-house"></i> <span data-i18n="timeline">Munkahelyek és Iskolák</span></a>
 					</li>
 					<li>
-						<a class="scroll-link" href="#section-5"><i class="fas fa-briefcase"></i> <span class="js-portfolio">Portfolió</span></a>
+						<a class="scroll-link" href="#section-5"><i class="fas fa-briefcase"></i> <span data-i18n="portfolio">Portfolió</span></a>
 					</li>
 					<li>
-						<a class="scroll-link" href="#section-6"><i class="fas fa-envelope"></i> <span class="js-contact">Kapcsolat</span></a>
+						<a class="scroll-link" href="#section-6"><i class="fas fa-envelope"></i> <span data-i18n="contact">Kapcsolat</span></a>
 					</li>
 					<li>
 						<a href="#otherSections" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle" role="button" aria-controls="otherSections">
-							<i class="fas fa-sync"></i><span class="js-more">Több</span>
+							<i class="fas fa-sync"></i><span data-i18n="more">Több</span>
 						</a>
 						<ul class="collapse list-unstyled" id="otherSections">
 							<li>
-								<a class="scroll-link" href="#section-3"> <span class="js-skill">Képességek</span></a>
+								<a class="scroll-link" href="#section-3"> <span data-i18n="skill">Képességek</span></a>
 							</li>
 							<li>
-								<a class="scroll-link" href="#section-4"><span class="js-hobbi">Hobbi és egyéb</span></a>
+								<a class="scroll-link" href="#section-4"><span data-i18n="hobbi">Hobbi és egyéb</span></a>
 							</li>
 						</ul>
 					</li>
@@ -76,18 +82,12 @@
 				
 				<div class="to-top">
 					<a class="btn btn-primary btn-customized-3" href="#" role="button">
-	                    <i class="fas fa-arrow-up"></i> Fel!
+	                    <i class="fas fa-arrow-up"></i><span data-i18n="up"> Fel! </span>
 	                </a>
 				</div>
 				<div class="dark-light-buttons">
 					<a class="btn btn-primary btn-customized-4 btn-customized-dark" href="#" role="button">Sötét</a>
 					<a class="btn btn-primary btn-customized-4 btn-customized-light" href="#" role="button">Világos</a>
-				</div>
-				<!--Language selector-->
-				<div class="row langWrap">
-					<a href="#hu" hreflang="hu" class="active btn btn-primary btn-customized-3 language">Magyar</a> <br />
-					<a href="#de" hreflang="de" class="btn btn-primary btn-customized-3 language">Deutsch</a> <br />
-					<a href="#en" hreflang="en" class="btn btn-primary btn-customized-3 language">English</a>
 				</div>
 			</nav>
 			<!-- End sidebar id-->
@@ -99,7 +99,7 @@
 			<div class="content">
 				<!-- open sidebar menu -->
 				<a class="btn btn-primary btn-customized open-menu" href="#" role="button">
-                    <i class="fas fa-align-left"></i> <span>Menü</span>
+                    <i class="fas fa-align-left"></i> <span data-i18n="menu">Menü</span>
                 </a>
 
 		        <!-- Top content -->
@@ -115,10 +115,10 @@
 			                	</div>
 			                	<div class="buttons wow fadeInUp">							
 									<a class="btn btn-primary btn-customized scroll-link" href="#section-1" role="button">
-										<i class="fas fa-user"></i> <span class="js-section-about">Rólam</span>
+										<i class="fas fa-user"></i> <span data-i18n="about">Rólam</span>
 									</a>
 									<a class="btn btn-primary btn-customized-2 scroll-link" href="#section-5" role="button">
-										<i class="fas fa-briefcase"></i> <span class="js-section-portfolio"> Portfolió </span>
+										<i class="fas fa-briefcase"></i> <span data-i18n="portfolio"> Portfolió </span>
 									</a>
 								</div>
 			                </div>
@@ -132,7 +132,7 @@
 
 			            <div class="row">
 			                <div class="col section-1 section-description wow fadeIn">
-			                    <h2>Rólam</h2>
+			                    <h2 data-i18n="about">Rólam</h2>
 			                    <div class="divider-1 wow fadeInUp"><span></span></div>
 			                </div>
 						</div>
@@ -200,7 +200,7 @@
 								<section>
 								<div class="time-container">
 									<div class="time-title">
-										<h3>Munkahelyek és iskolák</h3>
+										<h3 data-i18n="timeline">Munkahelyek és iskolák</h3>
 									</div>
 										<div class="timeline">
 											<ul>
@@ -545,12 +545,6 @@
 		                    <div class="col">
 		                    	<p class="js-footerDescription">&copy; Pfeiffer Zoltán 2020</p>
 		                    </div>
-							<div class="content">
-								<h3 class="js-title"> Hello Világ!</h3>
-								<p class="js-description">
-									Ez egy leirás ami magyarul van 
-								</p>
-							</div>
 		                </div>
 			        </div>
 		
