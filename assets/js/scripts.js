@@ -17,10 +17,12 @@ jQuery(document).ready(function() {
 	/*
 	    Sidebar
 	*/
+	
 	$('.dismiss, .overlay').on('click', function() {
         $('.sidebar').removeClass('active');
         $('.overlay').removeClass('active');
-    });
+	})
+
 
     $('.open-menu').on('click', function(e) {
     	e.preventDefault();
@@ -39,7 +41,8 @@ jQuery(document).ready(function() {
 		e.preventDefault();
 		$('.sidebar').addClass('light');
 	});
-	/* replace the default browser scrollbar in the sidebar, in case the sidebar menu has a height that is bigger than the viewport */
+	/* replace the default browser scrollbar in the sidebar, in case the 
+	 sidebar menu has a height that is bigger than the viewport */
 	$('.sidebar').mCustomScrollbar({
 		theme: "minimal-dark"
 	});
@@ -50,6 +53,9 @@ jQuery(document).ready(function() {
 	$('a.scroll-link').on('click', function(e) {
 		e.preventDefault();
 		scroll_to($(this), 0);
+		/* on click sidebar close*/ 
+		$('.sidebar').removeClass('active');
+        $('.overlay').removeClass('active');
 	});
 	
 	$('.to-top a').on('click', function(e) {
@@ -57,9 +63,14 @@ jQuery(document).ready(function() {
 		if($(window).scrollTop() != 0) {
 			$('html, body').stop().animate({scrollTop: 0}, 1000);
 		}
+	/* on click sidebar close*/ 
+		$('.sidebar').removeClass('active');
+        $('.overlay').removeClass('active');
 	});
-	/* make the active menu item change color as the page scrolls up and down */
-	/* we add 2 waypoints for each direction "up/down" with different offsets, because the "up" direction doesn't work with only one waypoint */
+	/* make the active menu item change color as the page scrolls up and 
+	 down, we add 2 waypoints for each direction "up/down" 
+	 with different offsets, because the "up" direction doesn't 
+	 work with only one waypoint */
 	$('.section-container').waypoint(function(direction) {
 		if (direction === 'down') {
 			$('.menu-elements li').removeClass('active');
