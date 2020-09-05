@@ -464,6 +464,28 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
 
 .section-3-box h3 { margin-top: 0; padding: 0 0 10px 0; }
 
+/***** Section 4******/
+.section-4{
+	margin-top: 30px;
+}
+.section-4 h4{
+	color: #fff;
+	font-weight: 150;
+}
+.icons{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	list-style: none;
+	padding: 10px;
+	margin-right: auto;
+}
+.icons li{
+	margin: auto;
+	padding: 5px;
+}
+.locked li img{filter: grayscale(100%);}
+
 /***** Section 5 *****/
 
 .section-5-box { padding-top: 30px; text-align: left; }
@@ -484,6 +506,7 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
 .section-5-box-date i { padding-right: 5px; color: #ddd; }
 
 .section-5-container .section-bottom-button { padding-top: 40px; }
+
 
 
 /***** Section 6 *****/

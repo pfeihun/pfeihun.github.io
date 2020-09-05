@@ -158,7 +158,7 @@
 		clear: both;
 		display: table;
 	}
-  
+	
 }
 
 @media (max-width: 767px) {
@@ -247,6 +247,8 @@
 		clear: both;
 		display: table;
 	}
+	/***Section 4 icons***/
+	.icons img{max-width: 85%;}
 }
 
 @media (max-width: 575px) {
