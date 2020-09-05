@@ -352,7 +352,7 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
 .top-content .description a { color: #fff; color: rgba(255, 255, 255, 0.8); border-color: #fff; border-color: rgba(255, 255, 255, 0.8); }
 .top-content .description a:hover,
 .top-content .description a:focus { color: #fff; color: rgba(255, 255, 255, 0.8); }
-
+.titleName{color:#d3b8b8}
 
 /***** Section 1 *****/
 
@@ -454,6 +454,7 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
 
 .section-3-box { margin-top: 30px; text-align: left; }
 
+
 .section-3-box .section-3-box-icon {
 	width: 60px; height: 60px; margin: 0 auto;
 	background: #f35b3f;
@@ -463,12 +464,11 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
 
 .section-3-box h3 { margin-top: 0; padding: 0 0 10px 0; }
 
-
 /***** Section 5 *****/
 
 .section-5-box { padding-top: 30px; text-align: left; }
 
-.section-5-box-image { overflow: hidden; border-radius: 6px; }
+.section-5-box-image { overflow: hidden; border-radius: 6px;}
 .section-5-box-image img { transition: all .8s; }
 .section-5-box-image:hover img { transform: scale(1.25); }
 
