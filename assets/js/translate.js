@@ -24,9 +24,9 @@ portfolio.i18n = {
         "workTogether" : 'Dolgozzunk Együtt',
         //section_1
         "plan" : "Tervezés",
-        "planParagraph" : "Ön elmondja, én megvalósítom! Folyamatosan egyeztetünk, így bármely rész azonnal javítható.",
+        "planParagraph" : "Új weblap? A régit fel javítani? Akadálymentesíteni? Keressen bizalommal!",
         "develop" : "Fejlesztés",
-        "developParagraph":" Fejlesztés HTML5, CSS3, Javascript, SQL, PhP, Python használatával",
+        "developParagraph":" Fejlesztés HTML5, WAI-ARIA, CSS3, Javascript, SQL, PhP, Python használatával",
         "workFrame" : "Keretrendszerek",
         "problem" : " Nem probléma!",
 
@@ -64,7 +64,7 @@ portfolio.i18n = {
         "workTogether" : "Lass uns zusammen arbeiten!",
         //section_1
         "plan" : "Planen",
-        "planParagraph" : "Sie sagen mir, ich werde machen es möglich! Wir verhandeln ständig, damit jedes Teil sofort repariert werden kann.",
+        "planParagraph" : "Neue webseite? Alte webseite verbessern? Verbesserung von Webseiten um sie für Menschen mit Behinderungen? Schreiben Sie mich an!",
         "develop" : "Entwicklen",
         "developParagraph":"Entwicklung mit HTML5, CSS3, Javascript, SQL, PhP, Python",
         "workFrame" : "Content Management Systemen",
@@ -103,7 +103,7 @@ portfolio.i18n = {
         "workTogether" : "Let's work together!",
         //section_1
         "plan" : "Planning",
-        "planParagraph" : "You tell me, I'll make it happen! We are constantly negotiating so any part can be repaired immediately.",
+        "planParagraph" : "New website? Old site updating? Web content and Web applications more accessible to people with disabilities? Send a massage!",
         "develop" : "Development",
         "developParagraph":"Development using HTML5, CSS3, Javascript, SQL, PhP, Python",
         "workFrame" : "Content Management Systems",
