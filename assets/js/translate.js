@@ -29,7 +29,14 @@ portfolio.i18n = {
         "developParagraph":" Fejlesztés HTML5, WAI-ARIA, CSS3, Javascript, SQL, PhP, Python használatával",
         "workFrame" : "Keretrendszerek",
         "problem" : " Nem probléma!",
-
+        //section_2
+        'programozaskarrier' : '<h4>Programozás Karrier</h4><i class="fas fa-graduation-cap"></i><h5>(2020)</h5><p><strong>Webfejlesztő FrontEnd</strong></p>',
+        'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- jelenleg)</h5><p><strong>Futár, insider, 2019-től Műszakvezető</strong></p>',
+        'esztergom' : '<h4>Tűzoltó Parancsnokság Esztergom</h4><i class="fas fa-industry"></i><h5>(2013 - 2018) </h5><p><strong> Beosztott Tűzoltó, 2015- Híradó ügyeletes, Csővezető, 2017- Grafikus </strong></p><p class="underline">Elismerések:</p><p>2013-as Dunai Árvíz - Díszparancs</p><p>2014 Hősies Helytállásért Elismerés</p>',
+        'piliscsaba' : '<h4>Önkéntes Tűzoltóság Piliscsaba</h4><i class="fas fa-industry"></i><h5>(2014 - 2018)</h5><p><strong> Raj parancsnok,  grafikus, webfejlesztő</strong></p>',
+        'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>grafikus, webfejlesztő,</strong></p>',
+        'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>grafikus, webfejlesztő, videó vágó</strong></p>',
+        'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webfejlesztő</strong></p>',
         //section_6
         "contactParagraph": "Küldjön Üzenetet, vagy keressen meg egyébb módon:",
         "contactH" : "Emailban:",
@@ -69,6 +76,14 @@ portfolio.i18n = {
         "developParagraph":"Entwicklung mit HTML5, CSS3, Javascript, SQL, PhP, Python",
         "workFrame" : "Content Management Systemen",
         "problem" : " Kein Problem!",
+        //section_2
+        'programozaskarrier' : '<h4>Programozás Karrier</h4><i class="fas fa-graduation-cap"></i><h5>(2020)</h5><p><strong>FrontEnd Webentwickler</strong></p>',
+        'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- Heute)</h5><p><strong>Kurrier, Insider, seit 2019 Schicht manager</strong></p>',
+        'esztergom' : '<h4>Feuerwehr Hauptsitz Esztergom</h4><i class="fas fa-industry"></i><h5>(2013 - 2018) </h5><p><strong> Feuerwehrmann, seit 2015: Einsatzleitstelle, Wassertruppmann, 2017- Grafiker </strong></p><p class="underline">Anerkennungen:</p><p>2013 Überschwemmung in Donau</p><p>2014 Heroisch Erhaltene Anerkennung</p>',
+        'piliscsaba' : '<h4>Freiwillige Feuerwehr Piliscsaba</h4><i class="fas fa-industry"></i><h5>(2014 - 2018)</h5><p><strong> Einsatzführer,  Grafiker, Webentwickler</strong></p>',
+        'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>Grafiker, Webentwickler</strong></p>',
+        'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>grafiker, webfentwickler, Video Schneider</strong></p>',
+        'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webentwickler</strong></p>',
 
         //section_6
         "contactParagraph": "Senden Sie eine Nachricht oder suchen Sie auf andere Weise nach :",
@@ -108,6 +123,14 @@ portfolio.i18n = {
         "developParagraph":"Development using HTML5, CSS3, Javascript, SQL, PhP, Python",
         "workFrame" : "Content Management Systems",
         "problem" : "No problem!",
+        //section_2
+        'programozaskarrier' : '<h4>Programozás Karrier</h4><i class="fas fa-graduation-cap"></i><h5>(2020)</h5><p><strong>FrontEnd webdeveloper</strong></p>',
+        'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- today)</h5><p><strong>dispatch-rider, Insider, since 2019 Sift manager</strong></p>',
+        'esztergom' : '<h4> Fire HQ Esztergom</h4><i class="fas fa-industry"></i><h5>(2013 - 2018) </h5><p><strong> Firefighter, seit 2015: Line Comandder dispatcher, 2017- Graphic </strong></p><p class="underline">Recognitions:</p><p>2013 Flooding in Danube</p><p>2014 Heroic recognition</p>',
+        'piliscsaba' : '<h4>Volunteer Firefighter Piliscsaba</h4><i class="fas fa-industry"></i><h5>(2014 - 2018)</h5><p><strong> Squad commander,  Graphic, Webdeveloper</strong></p>',
+        'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>Graphic, Webdeweloperr</strong></p>',
+        'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>Graphic, Webdeveloper, Video cutter</strong></p>',
+        'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webdeveloper</strong></p>',
 
         //section_6
         "contactParagraph": "Send a Message or other way find me:",
