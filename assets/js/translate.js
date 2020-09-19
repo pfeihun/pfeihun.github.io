@@ -57,13 +57,13 @@ portfolio.i18n = {
         'locked' : 'Zárolt:',
 
         //section_5
-        'portfolioIntroduction' : '2009-től több projektben vettem részt, mint kivitelező, segítség nyújtó:',
+        'portfolioIntroduction' : '2009-től több projektben vettem részt, mint kivitelező, segítségnyújtó:',
         //klima_projekt
-        'klima' : '<h3><a href="#">Projekt feladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projekt feladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="#">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
         'keletiFront' : '<h3><a href="#">Facebook logo tervezés</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2019 Január</span></div><p>Egy Airsoft szaküzletnek tervezve</p><p>Photoshop</p>',
         //150éves
-        'tuzoltosag' : '<h3><a href="#">Emlék tábla tervezés</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2018 Április</span></div><p>A 150 éves Esztergomi tűzoltóság rendezvény részére tervezve</p><p>CorelDraw Vektor Grafika</p>',
+        'tuzoltosag' : '<h3><a href="#">Emléktábla tervezés</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2018 Április</span></div><p>A 150 éves Esztergomi tűzoltóság rendezvény részére tervezve</p><p>CorelDraw Vektor Grafika</p>',
         //plakett
         'plakett' : '<h3><a href="#">Plakett tervezés</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> 2018 Április</div><p>A 150 éves Esztergomi tűzoltóság részére tervezve</p><p>Adobe Photoshop Raszter Grafika</p>',
         //agrarElet
@@ -230,7 +230,7 @@ portfolio.i18n = {
         'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>Graphic, Webdeveloper, Video cutter</strong></p>',
         'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webdeveloper</strong></p>',
         'duf' : '<h4>College of Dunaujváros Kommunikation and Mediascience department</h4><i class="fas fa-graduation-cap"></i> <i class="fas fa-industry"></i><h5>(2010 - 2011)</h5><p><strong>Mediatechnologist assistant / Graphic, educational material developer</strong></p>',
-        'oktav' : '<h4>OKTAV technikal school</h4><i class="fas fa-graduation-cap"></i><h5>2008 - 2010</h5><p><strong>Multimedia developer</strong></p>',
+        'oktav' : '<h4>OKTAV technical school</h4><i class="fas fa-graduation-cap"></i><h5>2008 - 2010</h5><p><strong>Multimedia developer</strong></p>',
 
         //section_3
         'graphic': '<h3>Graphic</h3><p>Vector/ Raster graphic works design and implementation with the help of Adobe Photoshop, Adobe Illustrator or CorelDraw</p>',
@@ -280,7 +280,7 @@ portfolio.i18n = {
         "telefon" : '<i class="fas fa-mobile-alt"></i> Mobil: +41-76-607-72-28',
         "location" : '<i class="fas fa-map-marker-alt"></i> Lakhely: Neuenhof, Aargau, Switzerland',
         //footer
-        'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>This Webseite all in all:  <i class="fas fa-mug-hot"></i> 50 cup Coffee, and lots row of HTML, CSS, and JS!  </p>',
+        'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>This Webseite all in all:  <i class="fas fa-mug-hot"></i> 50 cup Coffee, and lots of rows of HTML, CSS, and JS!  </p>',
 
     }
 }
