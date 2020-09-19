@@ -116,27 +116,28 @@ jQuery(document).ready(function() {
 	    var postdata = $('.section-6-form form').serialize();
 	    $.ajax({
 	        type: 'POST',
-	        url: 'assets/contact.php',
+	        url: 'https://formspree.io/mgepwbpg',
 	        data: postdata,
 	        dataType: 'json',
-	        success: function(json) {
-	            if(json.emailMessage != '') {
-	                $('.section-6-form form .contact-email').addClass('input-error');
-	            }
-	            if(json.subjectMessage != '') {
-	                $('.section-6-form form .contact-subject').addClass('input-error');
-	            }
-	            if(json.messageMessage != '') {
-	                $('.section-6-form form textarea').addClass('input-error');
-	            }
-	            if(json.emailMessage == '' && json.subjectMessage == '' && json.messageMessage == '') {
-	                $('.section-6-form form').fadeOut('fast', function() {
-	                    $('.section-6-form').append('<p>Thanks for contacting us! We will get back to you very soon.</p>');
-	                    $('.section-6-container').backstretch("resize");
-	                });
-	            }
-	        }
-	    });
+		}).done(function(json) {
+			if((json.emailMessage == '' && json.subjectMessage == '') && json.messageMessage == '') {
+				$('.section-6-form form').fadeOut(
+					'fast', function() {
+					$('.section-6-form').append('<p>Thanks for contacting me! I will get back to you very soon.</p>');
+					$('.section-6-container').backstretch("resize");
+				})}else{
+					
+				}
+		}).fail(function(json){
+					if(json.emailMessage != '') {
+						$('.contact-email').addClass('input-error');
+					}
+					if(json.subjectMessage != '') {
+						$('.contact-subject').addClass('input-error');
+					}
+					if(json.messageMessage != '') {
+						$('.contact-message').addClass('input-error');
+					};
+			});
 	});
-	
 });

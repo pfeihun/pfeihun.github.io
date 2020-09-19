@@ -84,9 +84,9 @@ portfolio.i18n = {
         //section_6
         "contactParagraph": "Küldjön Üzenetet, vagy keressen meg egyébb módon:",
         "contactH" : "Emailban:",
-        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="email" placeholder="Email cim..." class="contact-email form-control" id="contact-email">',
-        "contact-subject" : '<label class="sr-only" for="contact-subject">Tárgy</label><input type="text" name="subject" placeholder="Tárgy..." class="contact-subject form-control" id="contact-subject">' ,
-        "contact-message" : '<label class="sr-only" for="contact-message">Üzenet</label><textarea name="message" placeholder="Üzenet..." class="contact-message form-control" id="contact-message"></textarea>',
+        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="_replyto" placeholder="Email cim..." class="contact-email form-control" id="contact-email" required>',
+        "contact-subject" : '<label class="sr-only" for="contact-subject">Tárgy</label><input type="text" name="_subject" placeholder="Tárgy..." class="contact-subject form-control" id="contact-subject" required>' ,
+        "contact-message" : '<label class="sr-only" for="contact-message">Üzenet</label><textarea name="message" placeholder="Üzenet..." class="contact-message form-control" id="contact-message" required></textarea>',
         "contactH" : "Emailban:",
         "contactBtn": "Küldés!",
         "findMe" : "Itt is megtalál:",
@@ -177,9 +177,9 @@ portfolio.i18n = {
 
         //section_6
         "contactParagraph": "Senden Sie eine Nachricht oder suchen Sie auf andere Weise nach :",
-        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="Email" placeholder="E-Mail-Addresse" class="contact-email form-control" id="contact-email">',
-        "contact-subject" : '<label class="sr-only" for="contact-subject">Thema</label><input type="text" name="subject" placeholder="Thema" class="contact-subject form-control" id="contact-subject">' ,
-        "contact-message" : '<label class="sr-only" for="contact-message">Nachricht</label><textarea name="message" placeholder="Nachricht..." class="contact-message form-control" id="contact-message"></textarea>',
+        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="_replyto" placeholder="E-Mail-Addresse" class="contact-email form-control" id="contact-email" required>',
+        "contact-subject" : '<label class="sr-only" for="contact-subject">Thema</label><input type="text" name="_subject" placeholder="Thema" class="contact-subject form-control" id="contact-subject" required>' ,
+        "contact-message" : '<label class="sr-only" for="contact-message">Nachricht</label><textarea name="message" placeholder="Nachricht..." class="contact-message form-control" id="contact-message" required></textarea>',
         "contactH" : "in E-mail:",
         "contactBtn": "Senden!",
         "findMe" : "Hier auch finden mir:",
@@ -271,9 +271,9 @@ portfolio.i18n = {
 
         //section_6
         "contactParagraph": "Send a Message or other way find me:",
-        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="email" placeholder="e-mail address..." class="contact-email form-control" id="contact-email">',
-        "contact-subject" : '<label class="sr-only" for="contact-subject">Tárgy</label><input type="text" name="subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject">',
-        "contact-message" : '<label class="sr-only" for="contact-message">Message</label><textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message"></textarea>',
+        "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="_replyto" placeholder="e-mail address..." class="contact-email form-control" id="contact-email" required>',
+        "contact-subject" : '<label class="sr-only" for="contact-subject">Tárgy</label><input type="text" name="_subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject" required>',
+        "contact-message" : '<label class="sr-only" for="contact-message">Message</label><textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message" required></textarea>',
         "contactH" : "in email:",
         "contactBtn": "Sending!",
         "findMe" : "You can find it here too:",
