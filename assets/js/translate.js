@@ -286,12 +286,21 @@ portfolio.i18n = {
 }
 const langBtn = document.querySelector(".langWrap");
 const link = document.querySelectorAll("a.language");
-const siteLang = navigator.language;
+var siteLang = window.navigator.language;
+// check and convert site language
+if(siteLang == "hu-HU"){
+    siteLang = "hu";
+}else if( siteLang == "de-DE"){
+  sitelang = "de";
+}else{
+  siteLang = "en";
+};
+
 if (siteLang != "#hu") {
     for (let defLang of document.querySelectorAll("[data-i18n]")) {
         defLang.innerHTML = portfolio.i18n[siteLang][defLang.dataset.i18n];
-      }
-    };
+      };
+      };
 //language selector button remove and add active class
 link.forEach((el) => {
   el.addEventListener("click", () => {
