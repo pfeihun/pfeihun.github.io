@@ -113,31 +113,21 @@ jQuery(document).ready(function() {
 	$('.section-6-form form').submit(function(e) {
 		e.preventDefault();
 	    $('.section-6-form form input[type="text"], .section-6-form form textarea').removeClass('input-error');
-	    var postdata = $('.section-6-form form').serialize();
+		var postdata = $('.section-6-form form').serialize();
 	    $.ajax({
 	        type: 'POST',
 	        url: 'https://formspree.io/mgepwbpg',
 	        data: postdata,
 	        dataType: 'json',
 		}).done(function(json) {
-			if((json.emailMessage == '' && json.subjectMessage == '') && json.messageMessage == '') {
+				if((json.emailMessage != ""  && json.subjectMessage != "") && json.messageMessage != "") {
 				$('.section-6-form form').fadeOut(
 					'fast', function() {
 					$('.section-6-form').append('<p>Thanks for contacting me! I will get back to you very soon.</p>');
 					$('.section-6-container').backstretch("resize");
 				})}else{
-					
+					return false
 				}
-		}).fail(function(json){
-					if(json.emailMessage != '') {
-						$('.contact-email').addClass('input-error');
-					}
-					if(json.subjectMessage != '') {
-						$('.contact-subject').addClass('input-error');
-					}
-					if(json.messageMessage != '') {
-						$('.contact-message').addClass('input-error');
-					};
-			});
+		})
 	});
 });
