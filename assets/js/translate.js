@@ -292,7 +292,7 @@ if(siteLang == "hu-HU"){
     siteLang = "hu";
 }else if( siteLang == "de-DE"){
   sitelang = "de";
-}else{
+}else if (siteLang == "en-EN"){
   siteLang = "en";
 };
 
