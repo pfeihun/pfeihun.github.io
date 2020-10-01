@@ -226,7 +226,7 @@ portfolio.i18n = {
         'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- today)</h5><p><strong>dispatch-rider, Insider, since 2019 Sift manager</strong></p>',
         'esztergom' : '<h4> Fire HQ Esztergom</h4><i class="fas fa-industry"></i><h5>(2013 - 2018) </h5><p><strong> Firefighter, seit 2015: Line Comandder dispatcher, 2017- Graphic </strong></p><p class="underline">Recognitions:</p><p>2013 Flooding in Danube</p><p>2014 Heroic recognition</p>',
         'piliscsaba' : '<h4>Volunteer Firefighter Piliscsaba</h4><i class="fas fa-industry"></i><h5>(2014 - 2018)</h5><p><strong> Squad commander,  Graphic, Webdeveloper</strong></p>',
-        'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>Graphic, Webdeweloperr</strong></p>',
+        'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>Graphic, Webdeweloper</strong></p>',
         'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>Graphic, Webdeveloper, Video cutter</strong></p>',
         'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webdeveloper</strong></p>',
         'duf' : '<h4>College of Dunaujváros Kommunikation and Mediascience department</h4><i class="fas fa-graduation-cap"></i> <i class="fas fa-industry"></i><h5>(2010 - 2011)</h5><p><strong>Mediatechnologist assistant / Graphic, educational material developer</strong></p>',
