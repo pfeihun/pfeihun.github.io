@@ -292,7 +292,7 @@ var siteLang = window.navigator.language;
 if(siteLang == "hu-HU"){
   siteLang = "hu-HU";
 }else if( siteLang == "de-DE" || siteLang == "de-CH"){
-sitelang = "de-CH";
+siteLang = "de-CH";
 }else if (siteLang == "en-EN" || siteLang == "en-US"){
 siteLang = "en-EN";
 };
