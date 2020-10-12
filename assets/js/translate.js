@@ -2,7 +2,7 @@ var portfolio = {}
 
 portfolio.i18n = {
 //magyar adatok
-    "hu":
+    "hu-HU":
     {
         "mainTitle" : "Pfeiffer Zoltán Szabadúszó",
        
@@ -96,7 +96,7 @@ portfolio.i18n = {
         'summ' : '<p>&copy; Pfeiffer Zoltán 2020</p><p>A weboldal Összesen:  <i class="fas fa-mug-hot"></i> 50 csésze kávé, és sok sok sor HTML, CSS, és JS!  </p>',
     },
 //német adatok
-    "de":
+    "de-CH":
     {
         "mainTitle" : "Zoltán Pfeiffer Freelancer",
        
@@ -190,7 +190,7 @@ portfolio.i18n = {
 
    },
 //angol adatok
-    "en":
+    "en-EN":
     {
         "mainTitle" : "Zoltán Pfeiffer Freelancer",
        
@@ -286,22 +286,21 @@ portfolio.i18n = {
 }
 const langBtn = document.querySelector(".langWrap");
 const link = document.querySelectorAll("a.language");
-var siteLang = window.navigator.language;
+let siteLang = navigator.language;
 // check and convert site language
 
 if(siteLang == "hu-HU"){
   siteLang = "hu-HU";
-}else if( siteLang == "de-DE" || siteLang == "de-CH"){
+}else if( siteLang == "de-DE"){
 siteLang = "de-CH";
-}else if (siteLang == "en-EN" || siteLang == "en-US"){
+}else if (siteLang == "en-US"){
 siteLang = "en-EN";
 };
 
 if (siteLang != "#hu") {
-    for (let defLang of document.querySelectorAll("[data-i18n]")) {
-       
-        defLang.innerHTML = portfolio.i18n[siteLang][defLang.dataset.i18n];
-      };
+  for (let node of document.querySelectorAll("[data-i18n]")) {
+    node.innerHTML = portfolio.i18n[siteLang][node.dataset.i18n];
+  }
       };
 
 //language selector button remove and add active class
