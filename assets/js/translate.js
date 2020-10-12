@@ -288,19 +288,22 @@ const langBtn = document.querySelector(".langWrap");
 const link = document.querySelectorAll("a.language");
 var siteLang = window.navigator.language;
 // check and convert site language
+
 if(siteLang == "hu-HU"){
-    siteLang = "hu";
-}else if( siteLang == "de-DE"){
-  sitelang = "de";
-}else if (siteLang == "en-EN"){
-  siteLang = "en";
+  siteLang = "hu-HU";
+}else if( siteLang == "de-DE" || siteLang == "de-CH"){
+sitelang = "de-CH";
+}else if (siteLang == "en-EN" || siteLang == "en-US"){
+siteLang = "en-EN";
 };
 
 if (siteLang != "#hu") {
     for (let defLang of document.querySelectorAll("[data-i18n]")) {
+       
         defLang.innerHTML = portfolio.i18n[siteLang][defLang.dataset.i18n];
       };
       };
+
 //language selector button remove and add active class
 link.forEach((el) => {
   el.addEventListener("click", () => {
