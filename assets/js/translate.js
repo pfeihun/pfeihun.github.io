@@ -117,11 +117,11 @@ portfolio.i18n = {
         "menu": "Menu",
         "slogen" : '"Ich kenne keine Probleme, nur <strong>Lösungen!</strong>"',
         "motivation" : "Motivation",
-        "workTogether" : "Lass uns zusammen arbeiten!",
+        "workTogether" : "Lasst uns zusammen arbeiten!",
         
         //section_1
         "plan" : "Planen",
-        "planParagraph" : "Neue webseite? Alte webseite verbessern? Verbesserung von Webseiten um sie für Menschen mit Behinderungen? Schreiben Sie mich an!",
+        "planParagraph" : "Neue webseite? Alte webseite verbessern? Verbesserung von Webseiten um sie für Menschen mit Sehbehinderung anzupassen (WAI-ARIA)? Schreiben Sie mich an!",
         "develop" : "Entwicklen",
         "developParagraph":"Entwicklung mit HTML5, CSS3, Javascript, SQL, PhP, Python",
         "workFrame" : "Content Management Systemen",
@@ -129,18 +129,18 @@ portfolio.i18n = {
        
         //section_2
         'programozaskarrier' : '<h4>Programozás Karrier</h4><i class="fas fa-graduation-cap"></i><h5>(2020)</h5><p><strong>FrontEnd Webentwickler</strong></p>',
-        'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- Heute)</h5><p><strong>Kurrier, Insider, seit 2019 Schicht manager</strong></p>',
+        'dominos' : '<h4>Dominos Pizza Dietikon</h4><i class="fas fa-industry"></i><h5>(2018- Heute)</h5><p><strong>Kurrier, Insider, seit 2019 Schicht-Manager</strong></p>',
         'esztergom' : '<h4>Feuerwehr Hauptsitz Esztergom</h4><i class="fas fa-industry"></i><h5>(2013 - 2018) </h5><p><strong> Feuerwehrmann, seit 2015: Einsatzleitstelle, Wassertruppmann, 2017- Grafiker </strong></p><p class="underline">Anerkennungen:</p><p>2013 Überschwemmung in Donau</p><p>2014 Heroisch Erhaltene Anerkennung</p>',
         'piliscsaba' : '<h4>Freiwillige Feuerwehr Piliscsaba</h4><i class="fas fa-industry"></i><h5>(2014 - 2018)</h5><p><strong> Einsatzführer,  Grafiker, Webentwickler</strong></p>',
         'drh' : '<h4>DRH Norway</h4><i class="fas fa-industry"></i><h5>(2012)</h5><p><strong>Grafiker, Webentwickler</strong></p>',
-        'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>grafiker, webfentwickler, Video Schneider</strong></p>',
+        'ecotech' : '<h4>Ecotech nonprofit Zrt.</h4><i class="fas fa-industry"></i><h5>(2011 - 2012)</h5><p><strong>Grafiker, Webentwickler, Video-Schneider</strong></p>',
         'gkprojekt' : '<h4>GK-Projekt</h4><i class="fas fa-industry"></i><h5>(2009 - 2010)</h5><p><strong>Webentwickler</strong></p>',
         'duf' : '<h4>Hochschule Dunaújváros Kommunikation und Medienwissenschaft Lehrstuhl</h4><i class="fas fa-graduation-cap"></i> <i class="fas fa-industry"></i><h5>(2010 - 2011)</h5><p><strong>Mediamatiker Assistent / Grafiker, Lehrstoff entwickler</strong></p>',
         'oktav' : '<h4>OKTAV Fachschule</h4><i class="fas fa-graduation-cap"></i><h5>2008 - 2010</h5><p><strong>Mediamatiker</strong></p>',
 
         //section_3
-        'graphic': '<h3>Grafik</h3><p>Vector/ Raster grafische Arbeiten planung, Verarbeitung mit Hilfe von Adobe Photoshop, Adobe Illustrator oder CorelDraw</p>',
-        'creative': '<h3>Kreativität</h3><p>Lass es sein grafiker arbeit, webentwicklung Ich werde mich erfinden in alle situation! Und Google ist mein beste Freund!</p>',
+        'graphic': '<h3>Grafik</h3><p>Vector/ Raster grafische Arbeitsplanung, Verarbeitung mit Hilfe von Adobe Photoshop, Adobe Illustrator oder CorelDraw</p>',
+        'creative': '<h3>Kreativität</h3><p>Ob Grafikerarbeit, Webentwicklung Ich werde lösungen finden in allen Situationen! Und Google ist mein beste Freund!</p>',
         'frontEnd': '<h3>FrontEnd</h3><p>HTML5, CSS3, Bootstrap,  JavaScript, </p>',
         'backEnd' : '	<h3>BackEnd</h3><p>PHP, Python, SQL</p>',
 
@@ -153,21 +153,21 @@ portfolio.i18n = {
         //section_5
         'portfolioIntroduction' : 'Seit 2009 war ich als Auftragnehmer und Helfer an mehreren Projekten beteiligt. Eine Vorschau:',
         //klima_projekt
-        'klima' : '<h3><a href="#">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Der Erste projekt aufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="#">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Die erste Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Bootstrap</p>',
         //KeletiFront
-        'keletiFront' : '<h3><a href="#">Facebook Logo design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Januar 2019</span></div><p>Designed für ein Airsoft Spezialitätengeschäft</p><p>Photoshop</p>',
+        'keletiFront' : '<h3><a href="#">Facebook Logo Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Januar 2019</span></div><p>Designed für ein Airsoft Spezialitätengeschäft</p><p>Photoshop</p>',
         //150éves
-        'tuzoltosag' : '<h3><a href="#">Gedenktafel design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>April 2018</span></div><p>Entworfen für die 150 Jahre alte Veranstaltung der Feuerwehr Esztergom </p><p>CorelDraw Vector Grafik</p>',
+        'tuzoltosag' : '<h3><a href="#">Gedenktafel Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>April 2018</span></div><p>Entworfen für die 150 Jahre alte Veranstaltung der Feuerwehr Esztergom </p><p>CorelDraw Vector Grafik</p>',
         //plakett
-        'plakett' : '<h3><a href="#">Plakette design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>April 2018</div><p>Entworfen für die 150 Jahre alte Veranstaltung der Feuerwehr Esztergom</p><p>Adobe Photoshop Raster Grafik</p>',
+        'plakett' : '<h3><a href="#">Plakette Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>April 2018</div><p>Entworfen für die 150 Jahre alte Veranstaltung der Feuerwehr Esztergom</p><p>Adobe Photoshop Raster Grafik</p>',
         //agrarElet
-        'agrar' : '<h3><a href="#">Agrár Élet Magazin</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>September 2016</div><p>Aktualisieren einer vorhandenen Website, Aktualisieren eines Frameworks, Grafik design aktualisiren</p><p>Adobe Photoshop, WordPress, Jquery, Html, Css, PHP</p>',
+        'agrar' : '<h3><a href="#">Agrár Élet Magazin</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>September 2016</div><p>Aktualisieren einer vorhandenen Website, Aktualisieren eines Frameworks, Grafik design aktualisieren</p><p>Adobe Photoshop, WordPress, Jquery, Html, Css, PHP</p>',
         //pcsÖte
         'pcsote': '<h3><a href="#">Wappen für die Freiwillige Feuerwehr</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>April 2015</div><p>Designed für die örtliche freiwillige Feuerwehr</p><p>Adobe Photoshop Raster Grafik</p>',
         //vitézekLogo
         'vitezek' : '<h3><a href="#">Wappen für Esztergomi Vitézek</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>März 2015</div><p>Designed für Esztergomi Vitézek Rugby Mannschaft</p><p>Adobe Photoshop Vector Grafik</p>',
         //Thalia
-        'thalia': '<h3><a href="#">Thália Tanoda Budapest (Akademie der darstellenden Künste)</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2013 - 2015</span></div><p>Website-Wartung, Installation neuer Funktionen, Neugestaltung, Reparatur der Galerie, Retusche von Bildern</p><p>HTML, CSS, Joomla!, Photoshop</p>',
+        'thalia': '<h3><a href="#">Thália Tanoda Budapest (Akademie der darstellenden Künste)</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2013 - 2015</span></div><p>Website-Wartung, Installation neuer Funktionen, Neugestaltung, Reparatur der Galerie, retuschieren von Bildern</p><p>HTML, CSS, Joomla!, Photoshop</p>',
         //PDA
         'pda': '<h3><a href="#">Persönliche Website</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Februar 2012</span></div><p>Website- und Blog-Entwicklung, Erstellung grafischer Elemente, Verfassen von Dokumentationen und Benutzerdokumenten</p><p>HTML, CSS, Drupal, Photoshop</p>',
         //DRH
@@ -176,17 +176,17 @@ portfolio.i18n = {
         'garancs': '<h3><a href="#">Garancstető Wohnpark</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>Juli 2009</div><p>Website Entwicklung, Erstellung grafischer Elemente, Verfassen von Dokumentationen und Benutzerdokumenten</p><p>HTML, CSS, Flash, Joomla!</p>',
 
         //section_6
-        "contactParagraph": "Senden Sie eine Nachricht oder suchen Sie auf andere Weise nach :",
+        "contactParagraph": "Senden Sie eine Nachricht oder suchen Sie auf andere Weise nach mir:",
         "contact-email" : '<label class="sr-only" for="contact-email">E-mail</label><input type="text"  name="_replyto" placeholder="E-Mail-Addresse" class="contact-email form-control" id="contact-email" required>',
         "contact-subject" : '<label class="sr-only" for="contact-subject">Thema</label><input type="text" name="_subject" placeholder="Thema" class="contact-subject form-control" id="contact-subject" required>' ,
         "contact-message" : '<label class="sr-only" for="contact-message">Nachricht</label><textarea name="message" placeholder="Nachricht..." class="contact-message form-control" id="contact-message" required></textarea>',
         "contactH" : "in E-mail:",
         "contactBtn": "Senden!",
-        "findMe" : "Hier auch finden mir:",
+        "findMe" : "Hier finden Sie mich auch:",
         "telefon" : '<i class="fas fa-mobile-alt"></i> Mobil: +41-76-607-72-28',
         "location" : '<i class="fas fa-map-marker-alt"></i> Lakhely: Neuenhof, Aargau, Schweiz',
         //footer
-        'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>Diese Webseite hat insgesamt:  <i class="fas fa-mug-hot"></i> 50 tasse Coffee, und mehr und mehr reihe HTML, CSS, und JS</p>',
+        'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>Diese Webseite hat insgesamt:  <i class="fas fa-mug-hot"></i> 50 tassen Kaffe gebraucht, und mehr und mehr reihe HTML, CSS, und JS</p>',
 
    },
 //angol adatok
@@ -249,11 +249,11 @@ portfolio.i18n = {
         //klima_projekt
         'klima' : '<h3><a href="#">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>The first projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
-        'keletiFront' : '<h3><a href="#">Facebook logo design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>January 2019</span></div><p>Designed for a speciality store</p><p>Photoshop</p>',
+        'keletiFront' : '<h3><a href="#">Facebook logo Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>January 2019</span></div><p>Designed for a speciality store</p><p>Photoshop</p>',
         //150éves
         'tuzoltosag' : '<h3><a href="#">Memorial plaque</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>April 2018</span></div><p>Designed for the 150 year old Esztergom Fire Brigade event</p><p>CorelDraw Vector graphic</p>',
         //plakett
-        'plakett' : '<h3><a href="#">Plaque design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>April 2018</div><p>Designed for the 150 year old Esztergom Fire Brigade event</p><p>Adobe Photoshop Raster Graphik</p>',
+        'plakett' : '<h3><a href="#">Plaque Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>April 2018</div><p>Designed for the 150 year old Esztergom Fire Brigade event</p><p>Adobe Photoshop Raster Graphik</p>',
         //agrarElet
         'agrar' : '<h3><a href="#">Agrár Élet Magazin</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i>September 2016</div><p>Updating an existing website, updating a framework, Graphik design update</p><p>Adobe Photoshop, WordPress, Jquery, Html, Css, PHP</p>',
         //pcsÖte
