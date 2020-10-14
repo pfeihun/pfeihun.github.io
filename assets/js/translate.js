@@ -289,12 +289,14 @@ const link = document.querySelectorAll("a.language");
 let siteLang = navigator.language;
 // check and convert site language
 
-if(siteLang == "hu-HU"){
+if(siteLang == "hu"){
   siteLang = "hu-HU";
 }else if( siteLang == "de-DE"){
 siteLang = "de-CH";
 }else if (siteLang == "en-US"){
 siteLang = "en-EN";
+}else{
+  siteLang = "en-EN"
 };
 
 if (siteLang != "#hu") {
