@@ -1,0 +1,6 @@
+[submodule "recycling"]
+	path = recycling
+	url = https://github.com/pfeihun/recycling.git
+[submodule "weather"]
+	path = weather
+	url = https://github.com/pfeihun/weather.git

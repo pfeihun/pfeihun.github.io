@@ -58,8 +58,10 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : '2009-től több projektben vettem részt, mint kivitelező, segítségnyújtó:',
+        //js api projekt
+        'js-api':'<h3><a href="./weather/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Október</span></div><p>A harmadik Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="#">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
         'keletiFront' : '<h3><a href="#">Facebook logo tervezés</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2019 Január</span></div><p>Egy Airsoft szaküzletnek tervezve</p><p>Photoshop</p>',
         //150éves
@@ -152,8 +154,10 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : 'Seit 2009 war ich als Auftragnehmer und Helfer an mehreren Projekten beteiligt. Eine Vorschau:',
+        //js api projekt
+        'js-api':'<h3><a href="./weather/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>Die dritte Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="#">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Die erste Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Die erste Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Bootstrap</p>',
         //KeletiFront
         'keletiFront' : '<h3><a href="#">Facebook Logo Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Januar 2019</span></div><p>Designed für ein Airsoft Spezialitätengeschäft</p><p>Photoshop</p>',
         //150éves
@@ -246,8 +250,10 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : 'Since 2009 I have been involved in several projects as a contractor and helper. A preview:',
+        //js api projekt
+        'js-api':'<h3><a href="./weather/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>The third projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="#">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>The first projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>The first projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
         'keletiFront' : '<h3><a href="#">Facebook logo Design</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>January 2019</span></div><p>Designed for a speciality store</p><p>Photoshop</p>',
         //150éves
