@@ -251,7 +251,7 @@ portfolio.i18n = {
         //section_5
         'portfolioIntroduction' : 'Since 2009 I have been involved in several projects as a contractor and helper. A preview:',
         //js api projekt
-        'js-api':'<h3><a href="./weather/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>The third projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Javascript, API</p>',
+        'js-api':'<h3><a href="./weather/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>The third projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
         'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>The first projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
