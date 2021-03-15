@@ -9,7 +9,7 @@ portfolio.i18n = {
         //menu
         "debut" : 'Bemutatkozás',
         "about" : "Rólam",
-        "timeline": "Munkahelyek és Iskolák",
+        
         "skill": "Jártasságok",
         "portfolio" : "Portfolió",
         "contact" : "Kapcsolat",
@@ -94,7 +94,7 @@ portfolio.i18n = {
         //menu
         "debut" : 'Vorstellung',
         "about" : "Über",
-        "timeline" : "Arbeitsort und Schulen",
+        
         "skill": "Erfahrungen",
         "portfolio" : "Portfolio",
         "contact" : "Kontakt",
@@ -179,7 +179,7 @@ portfolio.i18n = {
         //menu
         "debut" : ' Introduction',
         "about" : "About",
-        "timeline" : "Workplace and School",
+        
         "skill": "Experience",
         "portfolio" : "Portfolio",
         "contact" : "Contact",
