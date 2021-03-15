@@ -166,7 +166,7 @@ portfolio.i18n = {
         "contactBtn": "Senden!",
         "findMe" : "Hier finden Sie mich auch:",
         "telefon" : '<i class="fas fa-mobile-alt"></i> Mobil: +41-76-607-72-28',
-        "location" : '<i class="fas fa-map-marker-alt"></i> Lakhely: Neuenhof, Aargau, Schweiz',
+        "location" : '<i class="fas fa-map-marker-alt"></i> Wohnsitz: Neuenhof, Aargau, Schweiz',
         //footer
         'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>Diese Webseite hat insgesamt:  <i class="fas fa-mug-hot"></i> 50 tassen Kaffe gebraucht, und mehr und mehr reihe HTML, CSS, und JS</p>',
 
@@ -251,7 +251,7 @@ portfolio.i18n = {
         "contactBtn": "Sending!",
         "findMe" : "You can find it here too:",
         "telefon" : '<i class="fas fa-mobile-alt"></i> Mobil: +41-76-607-72-28',
-        "location" : '<i class="fas fa-map-marker-alt"></i> Lakhely: Neuenhof, Aargau, Switzerland',
+        "location" : '<i class="fas fa-map-marker-alt"></i> residence: Neuenhof, Aargau, Switzerland',
         //footer
         'summ' : '<p>&copy; Zoltán Pfeiffer 2020</p><p>This Webseite all in all:  <i class="fas fa-mug-hot"></i> 50 cup Coffee, and lots of rows of HTML, CSS, and JS!  </p>',
 
