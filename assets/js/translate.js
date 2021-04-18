@@ -4,7 +4,7 @@ portfolio.i18n = {
 //magyar adatok
     "hu-HU":
     {
-        "mainTitle" : "Pfeiffer Zoltán Szabadúszó",
+        "mainTitle" : "Pfeiffer Zoltán Junior Front-End fejlesztő",
        
         //menu
         "debut" : 'Bemutatkozás',
@@ -89,7 +89,7 @@ portfolio.i18n = {
 //német adatok
     "de-CH":
     {
-        "mainTitle" : "Zoltán Pfeiffer Freelancer",
+        "mainTitle" : "Zoltán Pfeiffer Junior Front-End Entwickler",
        
         //menu
         "debut" : 'Vorstellung',
@@ -174,7 +174,7 @@ portfolio.i18n = {
 //angol adatok
     "en-EN":
     {
-        "mainTitle" : "Zoltán Pfeiffer Freelancer",
+        "mainTitle" : "Zoltán Pfeiffer Junior Front-End developer",
        
         //menu
         "debut" : ' Introduction',
