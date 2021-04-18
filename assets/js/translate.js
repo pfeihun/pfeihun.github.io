@@ -47,10 +47,12 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : '2009-től több projektben vettem részt, mint kivitelező, segítségnyújtó:',
+        //React api
+        'react-api':'<h3><a href="https://kcim9.csb.app/#/" target="blank">React API Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2021 Március</span></div><p>ProgramozásKarrier (Iskola) Pokedex App tervezése, API adatok feldolgozása és megjelenítése  </p><p>HTML5, CSS3, React, TypeScript JavaScript, API</p>',
         //js api projekt
-        'js-api':'<h3><a href="./weather/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Október</span></div><p>A harmadik Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Javascript, API</p>',
+        'js-api':'<h3><a href="./weather/index.html" target="blank">JS API Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Október</span></div><p>ProgramozásKarrier (Iskola) Időjárás App tervezése API adatok feldolgozása és megjelenítése </p><p>HTML5, CSS3, JavaScript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Mobile First Projektfeladat</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2020 Július</span></div><p>Az első Projektfeladat a ProgramozásKarriernél (Iskola)</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
         'keletiFront' : '<h3>Facebook logo tervezés</i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span> 2019 Január</span></div><p>Egy Airsoft szaküzletnek tervezve</p><p>Photoshop</p>',
         //150éves
@@ -132,10 +134,12 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : 'Seit 2009 war ich als Auftragnehmer und Helfer an mehreren Projekten beteiligt. Eine Vorschau:',
+        //React api
+        'react-api':'<h3><a href="https://kcim9.csb.app/#/" target="blank">React API Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>März 2021</span></div><p>ProgramozásKarrier (Schule) Pokedex App planen, API Daten Bearbeiten, und Repräsentation der Daten  </p><p>HTML5, CSS3, React, TypeScript JavaScript, API</p>',
         //js api projekt
-        'js-api':'<h3><a href="./weather/index.html" target="blank">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>Die dritte Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Javascript, API</p>',
+        'js-api':'<h3><a href="./weather/index.html" target="blank">JS API Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>Programozáskarrier (Schule) JS API App planen, API Daten Bearbeiten, und Repräsentation der Daten </p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Die erste Projektaufgabe bei Programozáskarrier (Schule)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt Aufgabe</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Juli 2020</span></div><p>Programozáskarrier (Schule) Erste Aufgabe, Mobile First und responsive Website planen</p><p>HTML5, CSS3, Bootstrap</p>',
         //KeletiFront
         'keletiFront' : '<h3>Facebook Logo Design</h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>Januar 2019</span></div><p>Designed für ein Airsoft Spezialitätengeschäft</p><p>Photoshop</p>',
         //150éves
@@ -217,10 +221,12 @@ portfolio.i18n = {
 
         //section_5
         'portfolioIntroduction' : 'Since 2009 I have been involved in several projects as a contractor and helper. A preview:',
+        //React api
+        'react-api':'<h3><a href="https://kcim9.csb.app/#/" target="blank">React API App V1.0</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>March 2021</span></div><p>ProgramozásKarrier (School) Pokedex App develop, working and displaying API datas</p><p>HTML5, CSS3, React, TypeScript JavaScript, API</p>',
         //js api projekt
-        'js-api':'<h3><a href="./weather/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>The third projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Javascript, API</p>',
+        'js-api':'<h3><a href="./weather/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>October 2020</span></div><p>Programozáskarrier (School) Weather App develop, working and displaying API datas</p><p>HTML5, CSS3, Javascript, API</p>',
         //klima_projekt
-        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>The first projekt task at Programozáskarrier (School)</p><p>HTML5, CSS3, Bootstrap</p>',
+        'klima' : '<h3><a href="./recycling/index.html" target="blank">Projekt task</a> <i class="fas fa-angle-right"></i></h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>July 2020</span></div><p>Programozáskarrier (School) Mobile First and responsive</p><p>HTML5, CSS3, Bootstrap</p>',
         //keletifront
         'keletiFront' : '<h3>Facebook logo Design</h3><div class="section-5-box-date"><i class="far fa-calendar"></i> <span>January 2019</span></div><p>Designed for a speciality store</p><p>Photoshop</p>',
         //150éves
